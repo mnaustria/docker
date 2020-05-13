@@ -7,6 +7,7 @@
 
 Build the docker image manually by cloning the git repository
 > $ git clone https://github.com/mnaustria/docker.git
+
 > $ docker build -t mnaustria/simple-flask-docker:v0.1 .
 
  ## Run Application
